@@ -1,2 +1,2 @@
-# Angrybirds4
-slingshot action
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
